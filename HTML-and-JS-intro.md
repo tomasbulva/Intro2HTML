@@ -18,8 +18,18 @@
 
 ## Anatomy
   - additional details: https://www.tutorialspoint.com/html5/index.htm
-  - HTML document starts with <!DOCTYPE html> not a tag
-  (old <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">)
+  - HTML document starts with doctype which is not a tag
+    (this is html5 version
+      ```HTML5
+        <!DOCTYPE html>
+      ```
+    )
+
+    ( older version
+      ```HTML
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+      ```
+    )
   - tags 3 main types (html is it's own category, meta, body)
   - meta: head, body, title, meta
     - special: script, style, link
@@ -62,14 +72,14 @@
   - geocities: https://www.google.com/search?q=geocities&safe=active&rlz=1C5CHFA_enUS896US896&sxsrf=ALeKk02-tbq1lwk6wu3YOB-KR1Xvgq5h8g:1610038543203&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnsMT7pIruAhUjwAIHHbJIDh8Q_AUoAXoECBQQAw&biw=1920&bih=2026
 
 ### References:
-https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
-https://en.wikipedia.org/wiki/HTML
-https://caniuse.com/
-https://en.wikipedia.org/wiki/Resource_Description_Framework
+- https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+- https://en.wikipedia.org/wiki/HTML
+- https://caniuse.com/
+- https://en.wikipedia.org/wiki/Resource_Description_Framework
 
 
 
-
+------
 
 
 # intro JS
