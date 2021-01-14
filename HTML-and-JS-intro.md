@@ -81,10 +81,7 @@
 - https://caniuse.com/
 - https://en.wikipedia.org/wiki/Resource_Description_Framework
 
-
-
 ------
-
 
 # intro JS
 
@@ -143,14 +140,20 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
 
 ## Craft
   - inspector
-  - console.log
-    - comas
   - comments line and multiline
+  - console.log
+    - string interpolation
+    - comma
+    - concatenate a string with a variable
+  - functions, scope and this
   - var let const
-  - js object indexes are unique
+  - iteration and loops
+  - objects and arrays and similar
   - modulo or bit operator
-  - string interpolation
-  - buildin libraries MATH, JSON, INTL
+  - strings
+  - buildin libraries MATH, JSON, (INTL)
+  - recurence
+  - higher order functions
 
   - new features:
     - nullish coalescing operators && || ??
@@ -158,8 +161,6 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
     - object spreading
     - optional chaining
     - array flat and flatmap
-
-
 
 
 ###  References:
