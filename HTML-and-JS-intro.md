@@ -152,6 +152,7 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
   - modulo or bit operator
   - strings
   - buildin libraries MATH, JSON, (INTL)
+  - callbacks, async and promises
   - recurence
   - higher order functions
 
