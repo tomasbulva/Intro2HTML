@@ -88,10 +88,14 @@
 ## History
 scripting language developed by Brendan Eich of Netscape; initially named Mocha, then LiveScript, and finally JavaScript
 
-  - What is Javascript
   - Birth
   - What is it?
   - EMACScript vs Javascript
+  - What is Javascript (what is script)
+    - intepreters
+    - event loop
+    - threads
+
 
 ## Today state
   - standard
