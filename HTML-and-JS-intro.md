@@ -142,7 +142,7 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
   - inspector
   - comments line and multiline
   - console.log
-    - string interpolation
+    - template literals
     - comma
     - concatenate a string with a variable
   - functions, scope and this
@@ -167,7 +167,8 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
 ###  References:
 - https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/
 - http://kangax.github.io/compat-table/es6/
-- https://caniuse.com/
+- https://caniuse.com
+- https://en.wikipedia.org/wiki/JavaScript
 - https://en.wikipedia.org/wiki/List_of_ECMAScript_engines
 - https://www.uplers.com/blog/5-best-task-runner-module-bundler-front-end-development-tools/
 - https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_%E2%80%93_ECMAScript_2015
