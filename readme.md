@@ -96,7 +96,6 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
     - event loop
     - threads
 
-
 ## Today state
   - standard
   - interpreters/engines
@@ -108,10 +107,26 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
     - Chakra
 
 ## Pre Processing/transpiling/transcompiling
+  - performance
+    - webpack
+    - uglify
+    - babel
+
   - standards
+    - babel
+
   - features
+    - typescript
+    - coffeescript
+
   - syntax
+    - uglify
+    - babel
+
   - frameworks
+    - react
+    - angular
+    - vue
 
 ## bundling and task runners
   - webpack
@@ -142,7 +157,7 @@ scripting language developed by Brendan Eich of Netscape; initially named Mocha,
   - sice emacscript2015 block and function scoping
   - function hoisting
 
-## Craft
+## Code
   - inspector
   - comments line and multiline
   - console.log

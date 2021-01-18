@@ -13,13 +13,17 @@ for (var variable of iterable) {
 }
 
 ///
-[].forEach((item, i) => {
-
+[1,2,3].forEach((item, i) => {
+  1 0
+  2 1
+  3 2
 });
 
 ///
-while (`true`) {
-
+myarray = [1,2,3];
+i = myarray.length;
+while (i--) {
+  myarray[i]
 }
 
-[].map
+[].map()
